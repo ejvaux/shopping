@@ -1,3 +1,3 @@
 ## Shopping App
 
-*   run db:seed
+*   run db:seed after migrate
